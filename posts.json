@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "noOfMutualFriend": 10,
+        "postPrivacy": "public",
+        "post": "Hello, everyone! This is my first post.",
+        "postImage": "https://i.ibb.co/wrXMNdZ/image1.jpg",
+        "noOfLikes": 25,
+        "comments": [
+            {
+                "user": "Alice",
+                "comment": "Nice post!"
+            },
+            {
+                "user": "Bob",
+                "comment": "I agree with you."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "noOfMutualFriend": 5,
+        "postPrivacy": "friend",
+        "post": "Had a great time with friends today!",
+        "postImage": "https://i.ibb.co/tMCrLQC/image2.jpg",
+        "noOfLikes": 15,
+        "comments": [
+            {
+                "user": "Charlie",
+                "comment": "Looks like fun!"
+            },
+            {
+                "user": "David",
+                "comment": "I wish I was there."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Emily Johnson",
+        "noOfMutualFriend": 2,
+        "postPrivacy": "public",
+        "post": "Feeling blessed and grateful today.",
+        "postImage": "https://i.ibb.co/hcWKd3Y/image3.jpg",
+        "noOfLikes": 40,
+        "comments": [
+            {
+                "user": "Frank",
+                "comment": "That's a beautiful photo."
+            },
+            {
+                "user": "Grace",
+                "comment": "You deserve it!"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Michael Brown",
+        "noOfMutualFriend": 8,
+        "postPrivacy": "friend",
+        "post": "Just finished reading an amazing book!",
+        "postImage": "https://i.ibb.co/Mg9jHtS/image4.jpg",
+        "noOfLikes": 12,
+        "comments": [
+            {
+                "user": "Olivia",
+                "comment": "What's the book called?"
+            },
+            {
+                "user": "Peter",
+                "comment": "I love reading too!"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Sophia Wilson",
+        "noOfMutualFriend": 12,
+        "postPrivacy": "only me",
+        "post": "Enjoying a peaceful evening by the beach.",
+        "postImage": "https://i.ibb.co/0DZdBD4/image5.jpg",
+        "noOfLikes": 8,
+        "comments": []
+    }
+]
